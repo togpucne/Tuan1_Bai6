@@ -1,0 +1,10 @@
+.section-1{
+    box-sizing: border-box;
+
+}
+.section-1 .container{
+    max-width: 300px;
+    border: 1px solid skyblue;
+    margin: 0 auto;
+    padding: 20px;
+}
